@@ -15,5 +15,7 @@ public:	//akses modifier
 };
 
 class MataKuliah {
+private:
+
 
 }
