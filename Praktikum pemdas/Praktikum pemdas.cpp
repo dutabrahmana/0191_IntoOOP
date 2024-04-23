@@ -14,5 +14,6 @@ public:	//akses modifier
 	}
 };
 
+class MataKuliah {
 
 }
