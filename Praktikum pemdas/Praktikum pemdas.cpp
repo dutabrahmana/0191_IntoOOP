@@ -37,6 +37,16 @@ public:
 };
 
 int main() {
-	
+	mahasiswa mhs;
+	MataKuliah mk;
+
+	mhs.nama = "Duta Brahmana Nusantara";
+	mhs.umur = 17;
+	mhs.jurusan = "Teknologi Informasi";
+	mhs.output();
+
+	mk.input();
+	mk.output();
+
 
 }
