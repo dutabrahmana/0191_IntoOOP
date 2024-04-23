@@ -30,7 +30,10 @@ public:
 	}
 
 	void output() {
-		c
+		cout << "kode MK = " << kodeMK << endl;
+		cout << "Nama MK = " << namaMK << endl;
+		cout << "SKS : " << sks << endl;
+	}
 };
 
 }
