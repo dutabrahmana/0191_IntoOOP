@@ -29,4 +29,8 @@ public:
 		cin >> sks;
 	}
 
-	
+	void output() {
+		c
+};
+
+}
