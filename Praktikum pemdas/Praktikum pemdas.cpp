@@ -2,6 +2,7 @@
 using namespace std;
 
 class mahasiswa {
+public:	//akses modifier
 
 	}
 };
